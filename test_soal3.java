@@ -1,6 +1,6 @@
 public class test_soal3 {
     public static void main(String[] args) {
-        charPyramid('*',7);
+        charPyramid('*',6);
     }
     public static void charPyramid(char input, int level) {
         int layer = 0;
